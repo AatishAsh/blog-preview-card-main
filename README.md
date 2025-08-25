@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AatishAsh/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:[https://github.com/AatishAsh/blog-preview-card-main]
+- Live Site URL: [https://aatishash.github.io/blog-preview-card-main/]
 
 ### Built with
 
