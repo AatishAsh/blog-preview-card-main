@@ -36,15 +36,15 @@ Users should be able to:
 
 ### What I learned
 
-i learned few concepts in HTML and CSS:
-HTML:
-learned about the <article> tag, which is used for self contained content like this blog card
-learned about the <span>tag
-CSS:
-learned about the display:flex property and how it changes the layout behavior of elements
-and @font-face to use the local fonts
+- i learned few concepts in HTML and CSS:
+- HTML:
+- learned about the <article> tag, which is used for self contained content like this blog card
+- learned about the <span>tag
+- CSS:
+- learned about the display:flex property and how it changes the layout behavior of elements
+, @font-face to use the local fonts and hover effects
 ```html
-<article class="wrapper"></article>
+<article class="card"></article>
 <span class="tag">Learning</span>
 ```
 ```css
